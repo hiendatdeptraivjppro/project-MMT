@@ -1,0 +1,44 @@
+[
+  {
+    "NameFood": "Pho",
+    "Price": "5000",
+    "Note": "So delicious",
+    "Picture": ".\/Menu\/Pho.png"
+  },
+  {
+    "NameFood": "BunBo",
+    "Price": "10000",
+    "Note": "So tasty",
+    "Picture": ".\/Menu\/BunBo.png"
+  },
+  {
+    "NameFood" : "BanhMi",
+    "Price" : "6000",
+    "Note" : "So spicy",
+    "Picture" : ".\/Menu\/BanhMi.png"
+  },
+  {
+    "NameFood" : "BotChien",
+    "Price" : "7000",
+    "Note" : "So raw",
+    "Picture" : ".\/Menu\/BotChien.png"
+  },
+  {
+    "NameFood" : "BunDau",
+    "Price" : "20000",
+    "Note" : "So smelty",
+    "Picture" : ".\/Menu\/BunDau.png"
+  },
+  {
+    "NameFood" : "Hamburger",
+    "Price" : "25000",
+    "Note" : "So yummy",
+    "Picture" : ".\/Menu\/Hamburger.png"
+  },
+  {
+    "NameFood" : "Comxuong",
+    "Price" : "20000",
+    "Note" : "So timmy",
+    "Picture" : ".\/Menu\/ComXuong.png"
+  }
+]
